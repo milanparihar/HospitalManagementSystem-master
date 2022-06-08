@@ -4,13 +4,13 @@
 }
 .top{
 	width:100%;
-	background-color:#00cccc !important;
+	background-color:#1acc00 !important;
 	border-bottom:2px solid #f0f0f0;
 }
 .top div{
 	width:1200px;
 	color:#fff;
-	background-color:#00cccc !important;
+	background-color:#1acc00 !important;
 	font-family:calibri;
 	padding:10px;
 	text-align:right;
@@ -18,12 +18,12 @@
 
 .logo{
 	width:100%;
-	background-color:;
+	background-color:#f0f0f0;
 	border-bottom:2px solid #f0f0f0;
 }
 .logo div{
 	width:1200px;
-	background-color:;
+	background-color:#f0f0f0;
 	font-family:calibri;
 	padding:10px;
 	text-align:left;
@@ -52,7 +52,7 @@
 	width:1000px;
 	font-weight:bold;
 	height:300px;
-	color:#00cccc;
+	color:#1acc00;
 	opacity:5.9;
 	font-size:50px;
 	background-color:#0000;
@@ -60,13 +60,13 @@
 
 .bottom{
 	width:100%;
-	background-color:;
+	background-color:#f0f0f0;
 	border-bottom:2px solid #f0f0f0;
 }
 .bottom div{
 	width:1200px;
 	color:#fff;
-	background-color:;
+	background-color:#f0f0f0;
 	font-family:calibri;
 	text-align:right;
 }
@@ -107,7 +107,7 @@ input[type="submit"]
 
  input[type="submit"]:hover
  {
- 	background-color:#00cccc
+ 	background-color:#1acc00
  }
 
 input[type="text"]{
@@ -127,19 +127,19 @@ button{
 	padding:10px;
 	color:#fff;
 	font-size:20px;
-	background-color:#00cccc  !important;
+	background-color:#1acc00  !important;
 }
 
 
 .nav_down{
 	width:100%;
-	background-color:#00cccc  !important;
+	background-color:#1acc00  !important;
 	border-bottom:2px solid #f0f0f0;
 }
 .nav_down div{
 	width:1200px;
 	color:#fff;
-	background-color:#00cccc ;
+	background-color:#1acc00 ;
 	font-family:calibri;
 	padding:10px;
 	text-align:left;
